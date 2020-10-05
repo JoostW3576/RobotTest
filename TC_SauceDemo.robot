@@ -86,18 +86,6 @@ Select Product
 #    should be equal  ${pass}  ${True}  msg=Expected value '${value}' is not equal to actual value '${text}'
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 #        click element   xpath://span[contains(text(),'Accepteren')]
 #
 #Ga akkoord met cookies bol.com
